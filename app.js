@@ -9,6 +9,7 @@ var express = require('express')
   , path = require('path');
 
 var app = express();
+//var $ = require('jQuery');
 
 app.configure(function(){
   app.set('port', process.env.PORT || 3000);

@@ -1,0 +1,58 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: beige;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#consolearea
+{
+width: 600px;
+
+margin-top: 100px;
+}
+
+#outputarea
+{
+width: 300px;
+height: 290px;
+background: black;
+border: 5px solid grey;
+color: white;
+overflow: auto;
+float: left;
+}
+
+#inputarea
+{
+width: 400px;
+background: light-grey;
+}
+
+#command-list
+{
+width: 410px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#connections
+{
+width: 200px;
+height: 200px;
+margin: 5px auto;
+border: 5px solid grey;
+color: white;
+overflow: auto;
+background: black;
+float: right;
+}
+
+#wrapper
+{
+height: 400px;
+width: 600px;
+}

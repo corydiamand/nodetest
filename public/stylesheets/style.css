@@ -34,7 +34,7 @@ background: light-grey;
 
 #command-list
 {
-width: 410px;
+width: 600px;
 margin-left: auto;
 margin-right: auto;
 }
@@ -48,11 +48,10 @@ border: 5px solid grey;
 color: white;
 overflow: auto;
 background: black;
-float: right;
 }
 
 #wrapper
 {
-height: 400px;
+height: 320px;
 width: 600px;
 }
